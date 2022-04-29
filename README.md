@@ -18,13 +18,8 @@ Frontend Mentor challenges help you improve your coding skills by building  real
 
 ### Links
 
-- Solution URL :
-- Live Site URL :
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL : https://github.com/builtbymort/qrCodeProject
+- Live Site URL : https://builtbymort-qrcodeproject.pages.dev/
 
 ### Built with
 - Semantic HTML5 markup
@@ -33,9 +28,9 @@ Frontend Mentor challenges help you improve your coding skills by building  real
 - Mobile-first workflow
 
 ### What I learned
-Buliding the Qr code component I learned how to write markdown and how to create a hithub repository.
+Buliding the Qr code component I learned how to write markdown, how to create a hithub repository and how to deploy the site with cloudflare and github.
 
 ## Author
 
-- Website - [Maurice Juma]
+- Website - Maurice Juma
 - Fontend Mentor - [@builtbymort](https://www.frontendmentor.io/profile/builtbymort)
